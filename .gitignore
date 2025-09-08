@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Data and cache
+*.db
+*.sqlite3
+.DS_Store
+*.log
+
+# Model / embeddings / vector store (don’t upload)
+data/chroma/
+notes/

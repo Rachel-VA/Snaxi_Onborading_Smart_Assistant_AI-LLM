@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+sentence-transformers
+chromadb
+langchain
+fpdf   # optional, for PDF export
